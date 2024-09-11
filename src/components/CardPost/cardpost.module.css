@@ -1,0 +1,51 @@
+.card {
+    width: 486px;
+    border-radius: 8px;
+    background: #171D1F;
+}
+
+.banner {
+    border-radius: 8px 8px 0px 0px;
+    background: #888;
+    padding: 24px;
+}
+
+.banner figure {
+    margin: 0;
+}
+
+.image {
+    margin: 0;
+    border-radius: 8px;
+    width: 100%;
+    box-shadow: 0 16px 24px #0000003D;
+}
+
+.content {
+    color: #BCBCBC;
+    margin: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.content h2 {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; 
+    margin: 0;
+}
+
+.content p {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin: 0;
+    flex-grow: 1;
+}
+
+.signature {
+    padding: 16px;
+}

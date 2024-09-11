@@ -12,6 +12,7 @@
 
 .banner figure {
     margin: 0;
+    position: relative;
 }
 
 .image {
@@ -48,4 +49,9 @@
 
 .signature {
     padding: 16px;
+}
+
+.link {
+    text-decoration: none;
+    cursor: pointer;
 }

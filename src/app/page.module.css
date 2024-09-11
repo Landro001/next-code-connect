@@ -3,3 +3,19 @@
     grid-template-columns: 1fr 1fr;
     gap: 24px;
 }
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 54px;
+}
+
+.link {
+    line-height: 28px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #BFFFC3;
+}
+
